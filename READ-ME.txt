@@ -1,3 +1,9 @@
 The server-side is uploaded in app-hourbor:
 
 http://forumangularjs.apphb.com/
+
+------------------------------------------
+
+The link of client on appharbor:
+
+http://forumangularjsclient.apphb.com/#/
